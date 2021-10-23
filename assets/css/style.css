@@ -3,7 +3,7 @@
 @import "../../../../css2-5.css";
 body {
   font-family: roboto, sans-serif;
-  background-color:#e7e7e7 /*color anterior anthonyrgb(104, 104, 104);*/
+  /* background-color:#e7e7e7 color anterior anthonyrgb(104, 104, 104); */
   font-size: 16px;
   color: #767676;
 }
@@ -151,7 +151,7 @@ h3,
 h4,
 h5,
 h6 {
-  color:#ec7626;
+  color: #ec7626;
   font-weight: 600;
   font-family: poppins, sans-serif;
 }
@@ -2683,7 +2683,7 @@ select.form-control {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color:#ec7626 /*#ec7626*/;
+  background-color: #ec7626 /*#ec7626*/;
   position: absolute;
   left: 0;
   top: 0;
