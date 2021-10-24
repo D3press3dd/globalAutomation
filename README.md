@@ -1,7 +1,7 @@
 # globalAutomationV1
 
 
--💻[Live Preview](https://upbeat-swartz-7998d9.netlify.app/ "Live Preview").
+-💻[Live Preview](https://admiring-lumiere-a2f95f.netlify.app/ "Live Preview").
 
 ## 🙋‍♂️ About Me</br>
 
